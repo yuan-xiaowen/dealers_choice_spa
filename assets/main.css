@@ -1,3 +1,16 @@
 h1{
-    font-family: Verdana;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+#customer-list .selected{
+    background-color: brown;
+}
+#cupcake-list{
+    cursor: pointer;
 }
